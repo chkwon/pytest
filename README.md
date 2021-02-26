@@ -12,5 +12,5 @@ python3 -m build
 
 * Install (without distributing to index):
 ```bash
-python3 -m pip install git+git://github.com/chkwon/pytest.git
+python3 -m pip install --upgrade git+git://github.com/chkwon/pytest.git
 ```
